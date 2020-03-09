@@ -33,7 +33,7 @@ a{
   height: 18px;
 }
 .login{
-  background-image:url("nav-back-1.png");
+  background-image:url("nav-back-1.PNG");
   height: 80px;
   width: 100%;
   padding-top: 15px ;
@@ -79,7 +79,7 @@ a{
   width: 100%;
   height: 500px;
   text-align: center;
-  background-image: url("nav-back-2.png");
+  background-image: url("nav-back-2.PNG");
   background-size: cover;
   background-repeat: no-repeat;
 }
